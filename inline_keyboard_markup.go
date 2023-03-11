@@ -1,4 +1,4 @@
-package telegram
+package botty
 
 import "encoding/json"
 

@@ -1,4 +1,4 @@
-package telegram
+package botty
 
 type User struct {
 	ID                      int    `json:"id"`

@@ -1,4 +1,4 @@
-package telegram
+package botty
 
 type ReplyOption func(s *MessageData)
 
